@@ -6,6 +6,11 @@
   <p>
     Headless, utility-first UI interaction controller for the modern web.
   </p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+<br />
 </div>
 
 ## 📋 About
